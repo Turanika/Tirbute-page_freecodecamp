@@ -1,2 +1,2 @@
-# Tirbute-page_freecodecamp
+# Tribute-page_freecodecamp
 Tribute Page_Freecodecamp
